@@ -1,0 +1,53 @@
+var friends = [
+    {
+        "name":"Michael",
+        "photo":"http://az616578.vo.msecnd.net/files/2015/08/24/6357600113572837231773916132_michael-scott-s-top-tantrums.png",
+        "scores":[
+           5,
+           5,
+           5,
+           5,
+           5,
+           5,
+           5,
+           5,
+           5,
+           5
+            ]
+        },
+    {
+    "name":"Jim",
+    "photo":"https://cdn-images-1.medium.com/max/1280/1*4hlpJpldO6H30q4jbrHiCA.jpeg",
+    "scores":[
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7,
+       8,
+       9,
+       10
+        ]
+  },
+  {
+    "name":"Dwight",
+    "photo":"http://www.themost10.com/wp-content/uploads/2012/04/Dwight-Schrute-1.jpg",
+    "scores":[
+       1,
+       1,
+       1,
+       1,
+       1,
+       1,
+       1,
+       1,
+       1,
+       1
+        ]
+  },
+  ]
+  
+  
+  module.exports = friends;
